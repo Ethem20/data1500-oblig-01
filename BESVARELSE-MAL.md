@@ -1,6 +1,6 @@
 # Besvarelse - Refleksjon og Analyse
 
-**Student:** [Ditt navn]
+**Erol Ethem Erdem:** [Ditt navn]
 
 **Studentnummer:** [Ditt studentnummer]
 
@@ -87,7 +87,7 @@
 **Eventuelle justeringer:**
 
 [Skriv ditt svar her - hvis modellen ikke var på 3NF, forklar hvilke justeringer du har gjort]
-
+    
 ---
 
 ## Del 2: Database-implementering
